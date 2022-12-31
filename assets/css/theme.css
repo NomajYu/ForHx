@@ -142,7 +142,7 @@ a:hover,a:focus {
 	padding:100px 0 100px 0;
 	text-align:center;
 	color:white;
-	background-image:radial-gradient(circle at 50% 50%,rgba(0,0,0,0.46),rgba(0,0,0,0.18)),url('../../images/firework.jpg');
+	background-image:radial-gradient(circle at 50% 50%,rgba(0,0,0,0.46),rgba(0,0,0,0.18)),url('../../images/newfire.gif');
 	-webkit-background-size:cover;
 	-moz-background-size:cover;
 	background-size:cover;
